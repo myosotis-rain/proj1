@@ -11,7 +11,7 @@ import cs304dbi as dbi
 
 import secrets
 
-app.secret_key = 'your secret here'
+app.secret_key = 'your secret here!!!!!!!!!!!!!'
 # replace that with a random key
 app.secret_key = secrets.token_hex()
 
